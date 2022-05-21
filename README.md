@@ -1,6 +1,6 @@
 # Overview
 
-A CRUD system with VO pattern, persistence and using the REST API architecture and the main HTTP verbs (GET, POST, PUT and DELETE)
+A CRUD system with VO pattern, persistence and using SpringBoot, REST API architecture and the main HTTP verbs (GET, POST, PUT and DELETE)
 
 According to Wikipedia, a Value Object “is a small object that represents a simple entity whose equality is not based on identity: that is, two value objects are equal when they have the same value, not necessarily being the same object”.
 
